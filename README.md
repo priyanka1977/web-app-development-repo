@@ -36,3 +36,18 @@ Client-Side
 Server-side
 
 - JavaScript Engine for NODEJS Platform : used for creating REST APIs
+
+The JavaScript Specification for new features are called as EcmaScript
+EcmaScript 3 / 5 : var. inbuilt objects (String, Math, Array...)
+
+ES 6 / EcmaScript2015 : Keyword LET, CONST, class, extends, arrow functions, objects, Array-based arrow functions, for..of(), modules
+
+create the package : package pkgA; // collection of functions/ classes
+import pkgA.\*;
+
+Modules are same as packages or namespaces
+
+ES 7/ EcmaScript2016
+....
+...
+ES13/ EcmaScript2022
